@@ -1,4 +1,4 @@
-# Analysis of Stock Return
+# Analysis of Green Energy Stock Returns
 ## Background of Project
 The client, Steve, recently graduated college with a finance degree and wants to help his parents choose the best stock options to invest in. His parents have chosen to invest in alternative energy and have already decided to buy DAQO (DQ) stock. Steve has requested for his data on DAQO and other green energy stock to be analyzed. The stock data was provided in Excel format from the client and contains DAQO stock data along with 11 other green energy stocks for the years 2017 and 2018. 
 #### Purpose
