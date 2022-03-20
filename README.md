@@ -17,8 +17,8 @@ The formatting section of the code is also copied from the original code and is 
 
 ![refactored_code2](https://user-images.githubusercontent.com/57520471/159149838-f71e8a85-cb48-4cac-9765-6c7868a6d350.png)
 
-##Results
-###Stock Performance for 2017
+## Results
+### Stock Performance for 2017
 ![VBA_Challenge_2017_Chart](https://user-images.githubusercontent.com/57520471/159150364-f6acc487-35e7-4460-85ee-79e86f1d5964.png)
 
 Overall the stocks had a positive return rate, except for TERP. DQ had the highest return rate of 199.4% but the lowest total daily volume of 35,796,200. SPWR had the highest total daily volume of 784,187,000 with a return rate of 23.1%.  The lowest return rate was TERP with -7.2% at 139,402,800 total daily volume.
@@ -31,7 +31,7 @@ The elapsed run time for the refactored code.
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/57520471/159150513-d98b908f-3388-42d4-bcd9-7bbc7b0522f1.png)
 
-###Stock Performance for 2018
+### Stock Performance for 2018
 ![VBA_Challenge_2018_Chart](https://user-images.githubusercontent.com/57520471/159150388-5eb41fcb-c259-4d35-8079-0d5c9b2a07d3.png)
 
 Overall the stocks had a negative return rate with the exception of ENPH and RUN. RUN had the highest return rate with 84.0% and DQ had the lowest return rate with -62.6%. ENPH had the highest total daily volume of 607,473,500 and AY had the lowest daily total volume of 83,079,900. 
@@ -46,6 +46,6 @@ The elapsed run time for the refactored code.
 
 Based on the analysis from the 2017 and 2018 green energy stock data, 2017 had a great return rate whereas the return rate in 2018 plummeted. This shows that rates of return can go up and down drastically and more years of data need to be analyzed in order to determine the return of each stock over time. The new refactored code will be more efficient at handling more years of data compared to the original code because it runs about 85% faster. 
 
-##Summary
+## Summary
 Refactoring code creates a more efficient and concise code that provides more universal output and usage. Advantages of refactoring code include easier debugging processes, design improvements, faster run times, and less memory usage. Refactored code is more universal because the concise design of the code shapes an easier model for more people to understand and work with. However, the process of refactoring code can be tedious and labor-intensive. Also, the refactored code does not add more functionality to the code and could become error-prone if the data becomes more complex. 
 In this project, the biggest advantage of refactoring the code included an almost 85% faster elapsed run time. Also refactoring the code took the functions of three codes and put the code into one concise function. This makes the code easier to read and run. However, a disadvantage of refactoring three functions into one is if an error occurs the whole function will not run versus just one of the functions not running. Overall refactoring this code will allow Steve to efficiently analyze more stock data for his parents and is overall beneficial to the client's request. 
